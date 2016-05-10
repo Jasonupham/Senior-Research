@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DTails LLC</string>
+    <string name="emptyString" />
+    <string name="emptyReservation1" />
+    <string name="emptyReservation2" />
+    <string name="emptyReservation3" />
+    <string name="emptyReservation4" />
+</resources>
